@@ -8,3 +8,5 @@ NOTE:
 `var id = +parameters[length - 1];`
 
 This update is for feature branch 1
+
+This update is for release v1.0.0
