@@ -9,4 +9,9 @@ NOTE:
 
 This update is for feature branch 1
 
+<<<<<<< HEAD
 This update is for release v1.0.0
+=======
+
+This is pull request in feature branch.
+>>>>>>> feature_branch_1
